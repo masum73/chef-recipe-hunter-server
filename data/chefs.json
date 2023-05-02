@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "John Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "description": "John Smith is an experienced chef with a passion for creating delicious and healthy meals. He has worked in some of the best restaurants in the world and has won numerous awards for his culinary creations. In his free time, John enjoys exploring new ingredients and experimenting with different cooking techniques."
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "Jane Doe",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 500,
+        "description": "Jane Doe is a creative and innovative chef who is always on the lookout for new and exciting ways to bring flavor and excitement to her dishes. She has a particular interest in fusion cuisine, blending elements of different culinary traditions to create something truly unique. In her free time, Jane enjoys gardening and exploring local farmers' markets for fresh ingredients."
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "Robert Johnson",
+        "years_of_experience": 15,
+        "num_recipes": 100,
+        "likes": 2000,
+        "description": "Robert Johnson is a classically trained chef with a deep respect for tradition and a passion for perfection. He has worked in some of the most prestigious kitchens in the world and has won numerous awards for his classic French cuisine. In his free time, Robert enjoys fishing and spending time with his family."
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "Maria Gonzalez",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 800,
+        "description": "Maria Gonzalez is a talented and passionate chef who is dedicated to using fresh, locally sourced ingredients in her cooking. She has a particular interest in Latin American cuisine, blending traditional flavors and techniques with modern cooking styles. In her free time, Maria enjoys hiking and exploring the outdoors."
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "David Lee",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 1200,
+        "description": "David Lee is a creative and experimental chef who is always pushing the boundaries of flavor and texture. He has a particular interest in molecular gastronomy, using science to create new and exciting culinary experiences. In his free time, David enjoys playing music and experimenting with new recipes in his home kitchen."
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "chef_name": "Karen Chen",
+        "years_of_experience": 3,
+        "num_recipes": 10,
+        "likes": 200,
+        "description": "Karen Chen is a young and talented chef who is just starting her culinary career. She has a passion for creating healthy and delicious dishes using fresh, locally sourced ingredients. In her free time, Karen enjoys hiking and exploring new restaurants to get inspiration for her"
+    }
+]
