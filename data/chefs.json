@@ -6,7 +6,102 @@
         "years_of_experience": 10,
         "num_recipes": 50,
         "likes": 1000,
-        "description": "John Smith is an experienced chef with a passion for creating delicious and healthy meals. He has worked in some of the best restaurants in the world and has won numerous awards for his culinary creations. In his free time, John enjoys exploring new ingredients and experimenting with different cooking techniques."
+        "description": "John Smith is an experienced chef with a passion for creating delicious and healthy meals. He has worked in some of the best restaurants in the world and has won numerous awards for his culinary creations. In his free time, John enjoys exploring new ingredients and experimenting with different cooking techniques.",
+        "recipes": [
+            {
+              "id": 1,
+              "recipe_name": "Beef Wellington",
+              "ingredients": [
+                "2 lb. beef tenderloin",
+                "1 lb. puff pastry",
+                "1/2 lb. mushrooms, finely chopped",
+                "1/2 cup minced onion",
+                "2 cloves garlic, minced",
+                "1/4 cup chopped parsley",
+                "1/2 cup dijon mustard",
+                "Salt and pepper to taste"
+              ],
+              "cooking_method": "1. Preheat oven to 425°F.\n2. Season beef with salt and pepper.\n3. Sear beef in a hot pan until browned on all sides.\n4. Mix mushrooms, onion, garlic, and parsley in a bowl.\n5. Spread dijon mustard over beef.\n6. Spread mushroom mixture over dijon mustard.\n7. Roll out puff pastry and wrap around beef, sealing the edges.\n8. Brush puff pastry with egg wash.\n9. Bake in oven for 40-45 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
+              "rating": [
+                {
+                  "username": "beeflover",
+                  "comment": "This was the best beef I've ever had!",
+                  "stars": 5
+                },
+                {
+                  "username": "foodie22",
+                  "comment": "Great recipe, but a little too complicated for me.",
+                  "stars": 4
+                },
+                {
+                  "username": "mushroomfan",
+                  "comment": "The mushroom mixture was a little too overpowering for my taste.",
+                  "stars": 3
+                }
+              ]
+            },
+            {
+                "id": 2,
+                "recipe_name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "1 lb. pizza dough",
+                    "1/2 cup tomato sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated parmesan cheese",
+                    "5-6 fresh basil leaves"
+                ],
+                "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
+                "rating": [
+                    {
+                        "username": "pizzalover",
+                        "comment": "This pizza is a classic for a reason. Perfectly balanced and delicious!",
+                        "stars": 5
+                    },
+                    {
+                        "username": "vegetarian",
+                        "comment": "As a vegetarian, I love a good margherita pizza. This one did not disappoint!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "mushroomfan",
+                        "comment": "I added some sautéed mushrooms to this recipe and it was amazing.",
+                        "stars": 5
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "recipe_name": "Creamy Garlic Shrimp Pasta",
+                "ingredients": [
+                    "1 lb. linguine",
+                    "1 lb. large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "2 tbsp. butter",
+                    "1/2 cup heavy cream",
+                    "1/2 cup grated parmesan cheese",
+                    "1/4 cup chopped parsley",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions until al dente.\n2. Meanwhile, heat butter in a large skillet over medium-high heat.\n3. Add garlic and sauté until fragrant, about 30 seconds.\n4. Add shrimp and cook until pink and cooked through, about 3-4 minutes.\n5. Reduce heat to low and add heavy cream and parmesan cheese, stirring until cheese is melted and sauce is smooth.\n6. Drain linguine and add to the skillet, tossing to coat with the sauce.\n7. Season with salt and pepper to taste.\n8. Garnish with chopped parsley and serve hot.",
+                "rating": [
+                    {
+                        "username": "shrimpfan",
+                        "comment": "This was amazing! Creamy and full of flavor.",
+                        "stars": 5
+                    },
+                    {
+                        "username": "pastaaddict",
+                        "comment": "I loved this recipe, but I added some extra garlic for even more flavor!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "foodie123",
+                        "comment": "Not bad, but a little too heavy for my taste.",
+                        "stars": 3
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": 2,
@@ -15,7 +110,102 @@
         "years_of_experience": 5,
         "num_recipes": 20,
         "likes": 500,
-        "description": "Jane Doe is a creative and innovative chef who is always on the lookout for new and exciting ways to bring flavor and excitement to her dishes. She has a particular interest in fusion cuisine, blending elements of different culinary traditions to create something truly unique. In her free time, Jane enjoys gardening and exploring local farmers' markets for fresh ingredients."
+        "description": "Jane Doe is a creative and innovative chef who is always on the lookout for new and exciting ways to bring flavor and excitement to her dishes. She has a particular interest in fusion cuisine, blending elements of different culinary traditions to create something truly unique. In her free time, Jane enjoys gardening and exploring local farmers' markets for fresh ingredients.",
+        "recipes": [
+            {
+              "id": 1,
+              "recipe_name": "Beef Wellington",
+              "ingredients": [
+                "2 lb. beef tenderloin",
+                "1 lb. puff pastry",
+                "1/2 lb. mushrooms, finely chopped",
+                "1/2 cup minced onion",
+                "2 cloves garlic, minced",
+                "1/4 cup chopped parsley",
+                "1/2 cup dijon mustard",
+                "Salt and pepper to taste"
+              ],
+              "cooking_method": "1. Preheat oven to 425°F.\n2. Season beef with salt and pepper.\n3. Sear beef in a hot pan until browned on all sides.\n4. Mix mushrooms, onion, garlic, and parsley in a bowl.\n5. Spread dijon mustard over beef.\n6. Spread mushroom mixture over dijon mustard.\n7. Roll out puff pastry and wrap around beef, sealing the edges.\n8. Brush puff pastry with egg wash.\n9. Bake in oven for 40-45 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
+              "rating": [
+                {
+                  "username": "beeflover",
+                  "comment": "This was the best beef I've ever had!",
+                  "stars": 5
+                },
+                {
+                  "username": "foodie22",
+                  "comment": "Great recipe, but a little too complicated for me.",
+                  "stars": 4
+                },
+                {
+                  "username": "mushroomfan",
+                  "comment": "The mushroom mixture was a little too overpowering for my taste.",
+                  "stars": 3
+                }
+              ]
+            },
+            {
+                "id": 2,
+                "recipe_name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "1 lb. pizza dough",
+                    "1/2 cup tomato sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated parmesan cheese",
+                    "5-6 fresh basil leaves"
+                ],
+                "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
+                "rating": [
+                    {
+                        "username": "pizzalover",
+                        "comment": "This pizza is a classic for a reason. Perfectly balanced and delicious!",
+                        "stars": 5
+                    },
+                    {
+                        "username": "vegetarian",
+                        "comment": "As a vegetarian, I love a good margherita pizza. This one did not disappoint!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "mushroomfan",
+                        "comment": "I added some sautéed mushrooms to this recipe and it was amazing.",
+                        "stars": 5
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "recipe_name": "Creamy Garlic Shrimp Pasta",
+                "ingredients": [
+                    "1 lb. linguine",
+                    "1 lb. large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "2 tbsp. butter",
+                    "1/2 cup heavy cream",
+                    "1/2 cup grated parmesan cheese",
+                    "1/4 cup chopped parsley",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions until al dente.\n2. Meanwhile, heat butter in a large skillet over medium-high heat.\n3. Add garlic and sauté until fragrant, about 30 seconds.\n4. Add shrimp and cook until pink and cooked through, about 3-4 minutes.\n5. Reduce heat to low and add heavy cream and parmesan cheese, stirring until cheese is melted and sauce is smooth.\n6. Drain linguine and add to the skillet, tossing to coat with the sauce.\n7. Season with salt and pepper to taste.\n8. Garnish with chopped parsley and serve hot.",
+                "rating": [
+                    {
+                        "username": "shrimpfan",
+                        "comment": "This was amazing! Creamy and full of flavor.",
+                        "stars": 5
+                    },
+                    {
+                        "username": "pastaaddict",
+                        "comment": "I loved this recipe, but I added some extra garlic for even more flavor!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "foodie123",
+                        "comment": "Not bad, but a little too heavy for my taste.",
+                        "stars": 3
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": 3,
@@ -24,7 +214,102 @@
         "years_of_experience": 15,
         "num_recipes": 100,
         "likes": 2000,
-        "description": "Robert Johnson is a classically trained chef with a deep respect for tradition and a passion for perfection. He has worked in some of the most prestigious kitchens in the world and has won numerous awards for his classic French cuisine. In his free time, Robert enjoys fishing and spending time with his family."
+        "description": "Robert Johnson is a classically trained chef with a deep respect for tradition and a passion for perfection. He has worked in some of the most prestigious kitchens in the world and has won numerous awards for his classic French cuisine. In his free time, Robert enjoys fishing and spending time with his family.",
+        "recipes": [
+            {
+              "id": 1,
+              "recipe_name": "Beef Wellington",
+              "ingredients": [
+                "2 lb. beef tenderloin",
+                "1 lb. puff pastry",
+                "1/2 lb. mushrooms, finely chopped",
+                "1/2 cup minced onion",
+                "2 cloves garlic, minced",
+                "1/4 cup chopped parsley",
+                "1/2 cup dijon mustard",
+                "Salt and pepper to taste"
+              ],
+              "cooking_method": "1. Preheat oven to 425°F.\n2. Season beef with salt and pepper.\n3. Sear beef in a hot pan until browned on all sides.\n4. Mix mushrooms, onion, garlic, and parsley in a bowl.\n5. Spread dijon mustard over beef.\n6. Spread mushroom mixture over dijon mustard.\n7. Roll out puff pastry and wrap around beef, sealing the edges.\n8. Brush puff pastry with egg wash.\n9. Bake in oven for 40-45 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
+              "rating": [
+                {
+                  "username": "beeflover",
+                  "comment": "This was the best beef I've ever had!",
+                  "stars": 5
+                },
+                {
+                  "username": "foodie22",
+                  "comment": "Great recipe, but a little too complicated for me.",
+                  "stars": 4
+                },
+                {
+                  "username": "mushroomfan",
+                  "comment": "The mushroom mixture was a little too overpowering for my taste.",
+                  "stars": 3
+                }
+              ]
+            },
+            {
+                "id": 2,
+                "recipe_name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "1 lb. pizza dough",
+                    "1/2 cup tomato sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated parmesan cheese",
+                    "5-6 fresh basil leaves"
+                ],
+                "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
+                "rating": [
+                    {
+                        "username": "pizzalover",
+                        "comment": "This pizza is a classic for a reason. Perfectly balanced and delicious!",
+                        "stars": 5
+                    },
+                    {
+                        "username": "vegetarian",
+                        "comment": "As a vegetarian, I love a good margherita pizza. This one did not disappoint!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "mushroomfan",
+                        "comment": "I added some sautéed mushrooms to this recipe and it was amazing.",
+                        "stars": 5
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "recipe_name": "Creamy Garlic Shrimp Pasta",
+                "ingredients": [
+                    "1 lb. linguine",
+                    "1 lb. large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "2 tbsp. butter",
+                    "1/2 cup heavy cream",
+                    "1/2 cup grated parmesan cheese",
+                    "1/4 cup chopped parsley",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions until al dente.\n2. Meanwhile, heat butter in a large skillet over medium-high heat.\n3. Add garlic and sauté until fragrant, about 30 seconds.\n4. Add shrimp and cook until pink and cooked through, about 3-4 minutes.\n5. Reduce heat to low and add heavy cream and parmesan cheese, stirring until cheese is melted and sauce is smooth.\n6. Drain linguine and add to the skillet, tossing to coat with the sauce.\n7. Season with salt and pepper to taste.\n8. Garnish with chopped parsley and serve hot.",
+                "rating": [
+                    {
+                        "username": "shrimpfan",
+                        "comment": "This was amazing! Creamy and full of flavor.",
+                        "stars": 5
+                    },
+                    {
+                        "username": "pastaaddict",
+                        "comment": "I loved this recipe, but I added some extra garlic for even more flavor!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "foodie123",
+                        "comment": "Not bad, but a little too heavy for my taste.",
+                        "stars": 3
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": 4,
@@ -33,7 +318,102 @@
         "years_of_experience": 8,
         "num_recipes": 40,
         "likes": 800,
-        "description": "Maria Gonzalez is a talented and passionate chef who is dedicated to using fresh, locally sourced ingredients in her cooking. She has a particular interest in Latin American cuisine, blending traditional flavors and techniques with modern cooking styles. In her free time, Maria enjoys hiking and exploring the outdoors."
+        "description": "Maria Gonzalez is a talented and passionate chef who is dedicated to using fresh, locally sourced ingredients in her cooking. She has a particular interest in Latin American cuisine, blending traditional flavors and techniques with modern cooking styles. In her free time, Maria enjoys hiking and exploring the outdoors.",
+        "recipes": [
+            {
+              "id": 1,
+              "recipe_name": "Beef Wellington",
+              "ingredients": [
+                "2 lb. beef tenderloin",
+                "1 lb. puff pastry",
+                "1/2 lb. mushrooms, finely chopped",
+                "1/2 cup minced onion",
+                "2 cloves garlic, minced",
+                "1/4 cup chopped parsley",
+                "1/2 cup dijon mustard",
+                "Salt and pepper to taste"
+              ],
+              "cooking_method": "1. Preheat oven to 425°F.\n2. Season beef with salt and pepper.\n3. Sear beef in a hot pan until browned on all sides.\n4. Mix mushrooms, onion, garlic, and parsley in a bowl.\n5. Spread dijon mustard over beef.\n6. Spread mushroom mixture over dijon mustard.\n7. Roll out puff pastry and wrap around beef, sealing the edges.\n8. Brush puff pastry with egg wash.\n9. Bake in oven for 40-45 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
+              "rating": [
+                {
+                  "username": "beeflover",
+                  "comment": "This was the best beef I've ever had!",
+                  "stars": 5
+                },
+                {
+                  "username": "foodie22",
+                  "comment": "Great recipe, but a little too complicated for me.",
+                  "stars": 4
+                },
+                {
+                  "username": "mushroomfan",
+                  "comment": "The mushroom mixture was a little too overpowering for my taste.",
+                  "stars": 3
+                }
+              ]
+            },
+            {
+                "id": 2,
+                "recipe_name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "1 lb. pizza dough",
+                    "1/2 cup tomato sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated parmesan cheese",
+                    "5-6 fresh basil leaves"
+                ],
+                "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
+                "rating": [
+                    {
+                        "username": "pizzalover",
+                        "comment": "This pizza is a classic for a reason. Perfectly balanced and delicious!",
+                        "stars": 5
+                    },
+                    {
+                        "username": "vegetarian",
+                        "comment": "As a vegetarian, I love a good margherita pizza. This one did not disappoint!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "mushroomfan",
+                        "comment": "I added some sautéed mushrooms to this recipe and it was amazing.",
+                        "stars": 5
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "recipe_name": "Creamy Garlic Shrimp Pasta",
+                "ingredients": [
+                    "1 lb. linguine",
+                    "1 lb. large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "2 tbsp. butter",
+                    "1/2 cup heavy cream",
+                    "1/2 cup grated parmesan cheese",
+                    "1/4 cup chopped parsley",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions until al dente.\n2. Meanwhile, heat butter in a large skillet over medium-high heat.\n3. Add garlic and sauté until fragrant, about 30 seconds.\n4. Add shrimp and cook until pink and cooked through, about 3-4 minutes.\n5. Reduce heat to low and add heavy cream and parmesan cheese, stirring until cheese is melted and sauce is smooth.\n6. Drain linguine and add to the skillet, tossing to coat with the sauce.\n7. Season with salt and pepper to taste.\n8. Garnish with chopped parsley and serve hot.",
+                "rating": [
+                    {
+                        "username": "shrimpfan",
+                        "comment": "This was amazing! Creamy and full of flavor.",
+                        "stars": 5
+                    },
+                    {
+                        "username": "pastaaddict",
+                        "comment": "I loved this recipe, but I added some extra garlic for even more flavor!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "foodie123",
+                        "comment": "Not bad, but a little too heavy for my taste.",
+                        "stars": 3
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": 5,
@@ -42,7 +422,102 @@
         "years_of_experience": 12,
         "num_recipes": 60,
         "likes": 1200,
-        "description": "David Lee is a creative and experimental chef who is always pushing the boundaries of flavor and texture. He has a particular interest in molecular gastronomy, using science to create new and exciting culinary experiences. In his free time, David enjoys playing music and experimenting with new recipes in his home kitchen."
+        "description": "David Lee is a creative and experimental chef who is always pushing the boundaries of flavor and texture. He has a particular interest in molecular gastronomy, using science to create new and exciting culinary experiences. In his free time, David enjoys playing music and experimenting with new recipes in his home kitchen.",
+        "recipes": [
+            {
+              "id": 1,
+              "recipe_name": "Beef Wellington",
+              "ingredients": [
+                "2 lb. beef tenderloin",
+                "1 lb. puff pastry",
+                "1/2 lb. mushrooms, finely chopped",
+                "1/2 cup minced onion",
+                "2 cloves garlic, minced",
+                "1/4 cup chopped parsley",
+                "1/2 cup dijon mustard",
+                "Salt and pepper to taste"
+              ],
+              "cooking_method": "1. Preheat oven to 425°F.\n2. Season beef with salt and pepper.\n3. Sear beef in a hot pan until browned on all sides.\n4. Mix mushrooms, onion, garlic, and parsley in a bowl.\n5. Spread dijon mustard over beef.\n6. Spread mushroom mixture over dijon mustard.\n7. Roll out puff pastry and wrap around beef, sealing the edges.\n8. Brush puff pastry with egg wash.\n9. Bake in oven for 40-45 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
+              "rating": [
+                {
+                  "username": "beeflover",
+                  "comment": "This was the best beef I've ever had!",
+                  "stars": 5
+                },
+                {
+                  "username": "foodie22",
+                  "comment": "Great recipe, but a little too complicated for me.",
+                  "stars": 4
+                },
+                {
+                  "username": "mushroomfan",
+                  "comment": "The mushroom mixture was a little too overpowering for my taste.",
+                  "stars": 3
+                }
+              ]
+            },
+            {
+                "id": 2,
+                "recipe_name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "1 lb. pizza dough",
+                    "1/2 cup tomato sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated parmesan cheese",
+                    "5-6 fresh basil leaves"
+                ],
+                "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
+                "rating": [
+                    {
+                        "username": "pizzalover",
+                        "comment": "This pizza is a classic for a reason. Perfectly balanced and delicious!",
+                        "stars": 5
+                    },
+                    {
+                        "username": "vegetarian",
+                        "comment": "As a vegetarian, I love a good margherita pizza. This one did not disappoint!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "mushroomfan",
+                        "comment": "I added some sautéed mushrooms to this recipe and it was amazing.",
+                        "stars": 5
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "recipe_name": "Creamy Garlic Shrimp Pasta",
+                "ingredients": [
+                    "1 lb. linguine",
+                    "1 lb. large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "2 tbsp. butter",
+                    "1/2 cup heavy cream",
+                    "1/2 cup grated parmesan cheese",
+                    "1/4 cup chopped parsley",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions until al dente.\n2. Meanwhile, heat butter in a large skillet over medium-high heat.\n3. Add garlic and sauté until fragrant, about 30 seconds.\n4. Add shrimp and cook until pink and cooked through, about 3-4 minutes.\n5. Reduce heat to low and add heavy cream and parmesan cheese, stirring until cheese is melted and sauce is smooth.\n6. Drain linguine and add to the skillet, tossing to coat with the sauce.\n7. Season with salt and pepper to taste.\n8. Garnish with chopped parsley and serve hot.",
+                "rating": [
+                    {
+                        "username": "shrimpfan",
+                        "comment": "This was amazing! Creamy and full of flavor.",
+                        "stars": 5
+                    },
+                    {
+                        "username": "pastaaddict",
+                        "comment": "I loved this recipe, but I added some extra garlic for even more flavor!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "foodie123",
+                        "comment": "Not bad, but a little too heavy for my taste.",
+                        "stars": 3
+                    }
+                ]
+            }
+        ]
     },
     {
         "id": 6,
@@ -51,6 +526,101 @@
         "years_of_experience": 3,
         "num_recipes": 10,
         "likes": 200,
-        "description": "Karen Chen is a young and talented chef who is just starting her culinary career. She has a passion for creating healthy and delicious dishes using fresh, locally sourced ingredients. In her free time, Karen enjoys hiking and exploring new restaurants to get inspiration for her"
+        "description": "Karen Chen is a young and talented chef who is just starting her culinary career. She has a passion for creating healthy and delicious dishes using fresh, locally sourced ingredients. In her free time, Karen enjoys hiking and exploring new restaurants to get inspiration for her",
+        "recipes": [
+            {
+              "id": 1,
+              "recipe_name": "Beef Wellington",
+              "ingredients": [
+                "2 lb. beef tenderloin",
+                "1 lb. puff pastry",
+                "1/2 lb. mushrooms, finely chopped",
+                "1/2 cup minced onion",
+                "2 cloves garlic, minced",
+                "1/4 cup chopped parsley",
+                "1/2 cup dijon mustard",
+                "Salt and pepper to taste"
+              ],
+              "cooking_method": "1. Preheat oven to 425°F.\n2. Season beef with salt and pepper.\n3. Sear beef in a hot pan until browned on all sides.\n4. Mix mushrooms, onion, garlic, and parsley in a bowl.\n5. Spread dijon mustard over beef.\n6. Spread mushroom mixture over dijon mustard.\n7. Roll out puff pastry and wrap around beef, sealing the edges.\n8. Brush puff pastry with egg wash.\n9. Bake in oven for 40-45 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
+              "rating": [
+                {
+                  "username": "beeflover",
+                  "comment": "This was the best beef I've ever had!",
+                  "stars": 5
+                },
+                {
+                  "username": "foodie22",
+                  "comment": "Great recipe, but a little too complicated for me.",
+                  "stars": 4
+                },
+                {
+                  "username": "mushroomfan",
+                  "comment": "The mushroom mixture was a little too overpowering for my taste.",
+                  "stars": 3
+                }
+              ]
+            },
+            {
+                "id": 2,
+                "recipe_name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "1 lb. pizza dough",
+                    "1/2 cup tomato sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup grated parmesan cheese",
+                    "5-6 fresh basil leaves"
+                ],
+                "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
+                "rating": [
+                    {
+                        "username": "pizzalover",
+                        "comment": "This pizza is a classic for a reason. Perfectly balanced and delicious!",
+                        "stars": 5
+                    },
+                    {
+                        "username": "vegetarian",
+                        "comment": "As a vegetarian, I love a good margherita pizza. This one did not disappoint!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "mushroomfan",
+                        "comment": "I added some sautéed mushrooms to this recipe and it was amazing.",
+                        "stars": 5
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "recipe_name": "Creamy Garlic Shrimp Pasta",
+                "ingredients": [
+                    "1 lb. linguine",
+                    "1 lb. large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "2 tbsp. butter",
+                    "1/2 cup heavy cream",
+                    "1/2 cup grated parmesan cheese",
+                    "1/4 cup chopped parsley",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Cook linguine according to package directions until al dente.\n2. Meanwhile, heat butter in a large skillet over medium-high heat.\n3. Add garlic and sauté until fragrant, about 30 seconds.\n4. Add shrimp and cook until pink and cooked through, about 3-4 minutes.\n5. Reduce heat to low and add heavy cream and parmesan cheese, stirring until cheese is melted and sauce is smooth.\n6. Drain linguine and add to the skillet, tossing to coat with the sauce.\n7. Season with salt and pepper to taste.\n8. Garnish with chopped parsley and serve hot.",
+                "rating": [
+                    {
+                        "username": "shrimpfan",
+                        "comment": "This was amazing! Creamy and full of flavor.",
+                        "stars": 5
+                    },
+                    {
+                        "username": "pastaaddict",
+                        "comment": "I loved this recipe, but I added some extra garlic for even more flavor!",
+                        "stars": 4
+                    },
+                    {
+                        "username": "foodie123",
+                        "comment": "Not bad, but a little too heavy for my taste.",
+                        "stars": 3
+                    }
+                ]
+            }
+        ]
     }
 ]
