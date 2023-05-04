@@ -12,16 +12,7 @@
               "id": 1,
               "recipe_name": "Beef Wellington",
               "recipe_pic": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80", 
-              "ingredients": [
-                "2 lb. beef tenderloin",
-                "1 lb. puff pastry",
-                "1/2 lb. mushrooms, finely chopped",
-                "1/2 cup minced onion",
-                "2 cloves garlic, minced",
-                "1/4 cup chopped parsley",
-                "1/2 cup dijon mustard",
-                "Salt and pepper to taste"
-              ],
+              "ingredients": "2 lb. beef tenderloin, 1 lb. puff pastry, 1/2 lb. mushrooms, finely chopped, 1/2 cup minced onion, 2 cloves garlic, minced, 1/4 cup chopped parsley, 1/2 cup dijon mustard, Salt and pepper to taste",
               "cooking_method": "1. Preheat oven to 425°F.\n2. Season beef with salt and pepper.\n3. Sear beef in a hot pan until browned on all sides.\n4. Mix mushrooms, onion, garlic, and parsley in a bowl.\n5. Spread dijon mustard over beef.\n6. Spread mushroom mixture over dijon mustard.\n7. Roll out puff pastry and wrap around beef, sealing the edges.\n8. Brush puff pastry with egg wash.\n9. Bake in oven for 40-45 minutes or until pastry is golden brown.\n10. Let rest for 10 minutes before slicing and serving.",
               "rating": 5
             },
@@ -29,13 +20,7 @@
                 "id": 2,
                 "recipe_name": "Classic Margherita Pizza",
                 "recipe_pic": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80", 
-                "ingredients": [
-                    "1 lb. pizza dough",
-                    "1/2 cup tomato sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "1/4 cup grated parmesan cheese",
-                    "5-6 fresh basil leaves"
-                ],
+                "ingredients": "2 lb. beef tenderloin, 1 lb. puff pastry, 1/2 lb. mushrooms, finely chopped, 1/2 cup minced onion, 2 cloves garlic, minced, 1/4 cup chopped parsley, 1/2 cup dijon mustard, Salt and pepper to taste",
                 "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
                 "rating": 4
             },
@@ -88,13 +73,7 @@
                 "id": 2,
                 "recipe_name": "Classic Margherita Pizza",
                 "recipe_pic": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80", 
-                "ingredients": [
-                    "1 lb. pizza dough",
-                    "1/2 cup tomato sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "1/4 cup grated parmesan cheese",
-                    "5-6 fresh basil leaves"
-                ],
+                "ingredients": "2 lb. beef tenderloin, 1 lb. puff pastry, 1/2 lb. mushrooms, finely chopped, 1/2 cup minced onion, 2 cloves garlic, minced, 1/4 cup chopped parsley, 1/2 cup dijon mustard, Salt and pepper to taste",
                 "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
                 "rating": 4
             },
@@ -147,13 +126,7 @@
                 "id": 2,
                 "recipe_name": "Classic Margherita Pizza",
                 "recipe_pic": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80", 
-                "ingredients": [
-                    "1 lb. pizza dough",
-                    "1/2 cup tomato sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "1/4 cup grated parmesan cheese",
-                    "5-6 fresh basil leaves"
-                ],
+                "ingredients": "2 lb. beef tenderloin, 1 lb. puff pastry, 1/2 lb. mushrooms, finely chopped, 1/2 cup minced onion, 2 cloves garlic, minced, 1/4 cup chopped parsley, 1/2 cup dijon mustard, Salt and pepper to taste",
                 "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
                 "rating": 4
             },
@@ -206,13 +179,7 @@
                 "id": 2,
                 "recipe_name": "Classic Margherita Pizza",
                 "recipe_pic": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80", 
-                "ingredients": [
-                    "1 lb. pizza dough",
-                    "1/2 cup tomato sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "1/4 cup grated parmesan cheese",
-                    "5-6 fresh basil leaves"
-                ],
+                "ingredients": "2 lb. beef tenderloin, 1 lb. puff pastry, 1/2 lb. mushrooms, finely chopped, 1/2 cup minced onion, 2 cloves garlic, minced, 1/4 cup chopped parsley, 1/2 cup dijon mustard, Salt and pepper to taste",
                 "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
                 "rating": 4
             },
@@ -265,13 +232,7 @@
                 "id": 2,
                 "recipe_name": "Classic Margherita Pizza",
                 "recipe_pic": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80", 
-                "ingredients": [
-                    "1 lb. pizza dough",
-                    "1/2 cup tomato sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "1/4 cup grated parmesan cheese",
-                    "5-6 fresh basil leaves"
-                ],
+                "ingredients": "2 lb. beef tenderloin, 1 lb. puff pastry, 1/2 lb. mushrooms, finely chopped, 1/2 cup minced onion, 2 cloves garlic, minced, 1/4 cup chopped parsley, 1/2 cup dijon mustard, Salt and pepper to taste",
                 "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
                 "rating": 4
             },
@@ -324,13 +285,7 @@
                 "id": 2,
                 "recipe_name": "Classic Margherita Pizza",
                 "recipe_pic": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80", 
-                "ingredients": [
-                    "1 lb. pizza dough",
-                    "1/2 cup tomato sauce",
-                    "1 cup shredded mozzarella cheese",
-                    "1/4 cup grated parmesan cheese",
-                    "5-6 fresh basil leaves"
-                ],
+                "ingredients": "2 lb. beef tenderloin, 1 lb. puff pastry, 1/2 lb. mushrooms, finely chopped, 1/2 cup minced onion, 2 cloves garlic, minced, 1/4 cup chopped parsley, 1/2 cup dijon mustard, Salt and pepper to taste",
                 "cooking_method": "1. Preheat oven to 450°F.\n2. Roll out pizza dough and place on a greased pizza pan or baking sheet.\n3. Spread tomato sauce evenly over the dough.\n4. Top with mozzarella cheese and parmesan cheese.\n5. Bake for 12-15 minutes, until crust is golden brown and cheese is melted and bubbly.\n6. Remove from oven and top with fresh basil leaves.\n7. Slice and serve hot.",
                 "rating": 4
             },
